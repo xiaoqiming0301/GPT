@@ -8,8 +8,9 @@
 
 - 将额度信息显示在 Windows 任务栏上；
 - 根据剩余额度使用绿色、黄色和红色显示；
-- 在 Claude 未安装或不可用时自动隐藏对应行；
+- 如果只安装 ChatGPT / Codex 或只安装 Claude，任务栏只显示已安装程序的额度；Claude 未安装或不可用时自动隐藏对应行；
 - 调整详细面板的字体、图标大小和布局宽度；
+- 任务栏品牌 logo 统一使用白色；
 - 增加适合当前 Windows 环境的界面截图和使用说明。
 
 ## 版权与许可
@@ -32,9 +33,9 @@ C:\Users\你的用户名\AppData\Local\Programs\QuotaBlocks
 
 ## 当前效果
 
-电量颜色示例：
+额度颜色示例：
 
-![三种电量状态](windows/docs/battery-states.png)
+![三种额度颜色状态](windows/docs/quota-color-states.png)
 
 原程序与个人修改后的任务栏对比：
 
