@@ -1,5 +1,7 @@
 # Quota Blocks
 
+[中文说明](README.zh-CN.md)
+
 See your remaining ChatGPT/Codex and Claude subscription quotas at a glance.
 
 Quota Blocks is available for both desktop platforms:
