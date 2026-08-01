@@ -1,5 +1,7 @@
 # Quota Blocks 中文说明
 
+完整的本次部署与修改记录见：[个人修改总结](CUSTOMIZATION_SUMMARY.zh-CN.md)。
+
 这是一个用于 Windows 任务栏的额度显示工具，可以快速查看 ChatGPT / Codex 和 Claude 的剩余额度。
 
 本版本基于 [NathanCheng685/quota-blocks](https://github.com/NathanCheng685/quota-blocks) 项目进行修改，主要按照个人电脑的使用习惯和界面偏好进行了调整，包括：
