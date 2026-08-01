@@ -6,7 +6,7 @@
 
 ## 当前修改
 
-- 将额度显示适配到 Windows 任务栏，并避开系统小组件区域；
+- 将额度显示适配到 Windows 任务栏，并避开系统任务栏左侧小组件区域；
 - provider 不可用时自动隐藏对应任务栏行；
 - 调整详细面板的字体、图标大小、行距和面板宽度；
 - 统一 ChatGPT / Codex 与 Claude 的标题和图标视觉尺寸；
@@ -20,7 +20,7 @@
 - 20%～79%：黄色；
 - 0%～19%：红色。
 
-![三种电量状态](windows/docs/battery-states.png)
+![三种额度状态](windows/docs/battery-states.png)
 
 ## 效果对比
 
