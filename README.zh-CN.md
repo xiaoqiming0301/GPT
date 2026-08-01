@@ -1,4 +1,4 @@
-# Quota Blocks 中文说明
+# Quota Blocks（个人修改版本）中文说明
 
 完整的本次部署与修改记录见：[个人修改总结](CUSTOMIZATION_SUMMARY.zh-CN.md)。
 
@@ -10,7 +10,6 @@
 - 根据剩余额度使用绿色、黄色和红色显示；
 - 在 Claude 未安装或不可用时自动隐藏对应行；
 - 调整详细面板的字体、图标大小和布局宽度；
-- 移除个人不需要的 Codex 重置提醒功能；
 - 增加适合当前 Windows 环境的界面截图和使用说明。
 
 ## 版权与许可
@@ -32,6 +31,16 @@ C:\Users\你的用户名\AppData\Local\Programs\QuotaBlocks
 程序支持 Windows 10/11，并可以通过“开机自动启动”选项随系统启动。
 
 ## 当前效果
+
+电量颜色示例：
+
+![三种电量状态](windows/docs/battery-states.png)
+
+原程序与个人修改后的任务栏对比：
+
+| 原程序 | 个人修改后 |
+| --- | --- |
+| ![原程序任务栏](windows/docs/bar.png) | ![修改后任务栏](windows/docs/taskbar-current.png) |
 
 详细面板：
 
